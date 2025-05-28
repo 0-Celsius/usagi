@@ -1,7 +1,6 @@
-
+Page about Usagi
 
 # Sources:
-
 ## infomation
 https://chiikawa.fandom.com/wiki/Usagi
 ## Lard Usagi:
